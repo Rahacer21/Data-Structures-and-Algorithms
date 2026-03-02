@@ -13,10 +13,12 @@ Author verification commit
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Rahacer21/Data-Structures-and-Algorithms/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rahacer21/Data-Structures-and-Algorithms/tree/main/LeetCode/Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Rahacer21/Data-Structures-and-Algorithms/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rahacer21/Data-Structures-and-Algorithms/tree/main/LeetCode/Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -26,4 +28,12 @@ Author verification commit
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Rahacer21/Data-Structures-and-Algorithms/tree/main/LeetCode/Medium/2442-count-number-of-distinct-integers-after-reverse-operations/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Rahacer21/Data-Structures-and-Algorithms/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/Rahacer21/Data-Structures-and-Algorithms/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
