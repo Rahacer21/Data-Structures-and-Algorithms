@@ -9,8 +9,10 @@ public:
             while(!st.empty() && nums[i%n]>=st.top()){
                 st.pop();
             }
-            if(st.empty()) ans[i%n]=-1;
-            else ans[i%n]=st.top();
+            if(i<n){
+                if(st.empty()) ans[i%n]=-1;
+                else ans[i%n]=st.top();
+            }
 
             st.push(nums[i%n]);
         }
