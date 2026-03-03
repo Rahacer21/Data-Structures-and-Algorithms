@@ -39,4 +39,16 @@ Author verification commit
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Rahacer21/Data-Structures-and-Algorithms/tree/main/LeetCode/Easy/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Rahacer21/Data-Structures-and-Algorithms/tree/main/LeetCode/Medium/0503-next-greater-element-ii/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rahacer21/Data-Structures-and-Algorithms/tree/main/LeetCode/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rahacer21/Data-Structures-and-Algorithms/tree/main/LeetCode/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rahacer21/Data-Structures-and-Algorithms/tree/main/LeetCode/Medium/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 <!---LeetCode Topics End-->
